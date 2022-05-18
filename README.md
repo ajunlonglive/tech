@@ -1,6 +1,5 @@
 # 最新 10000+ 道，280多份，面试题，汇总
 
-<a href="https://www.souyunku.com/?p=397" target="_blank"  ><img src="https://www.souyunku.com/wp-content/uploads/idea/zhengban.png" ></a>
 
 ## 整理那么辛苦，求个 Star，Fork 谢谢
 
